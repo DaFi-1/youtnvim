@@ -1,0 +1,13 @@
+# Neovim / Vim swap and backup files
+*.swp
+*.swo
+*~
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Lua / LSP / Linter cache
+.luarc.json
+.luacheckrc

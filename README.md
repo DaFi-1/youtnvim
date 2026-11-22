@@ -1,4 +1,5 @@
 # ytnvim 󰗃
+<img width="896" height="466" alt="image" src="https://github.com/user-attachments/assets/14f7f0d9-d484-4c4d-b34f-a4af598857ea" />
 
 O **ytnvim** é um estúdio do YouTube no Neovim dividido em 3 painéis:
 1. **Painel Esquerdo (Thumbnail & Metadados)**: Exibe a miniatura em alta definição via Kitty Graphics Protocol do vídeo selecionado, além de título, canal, duração e visualizações.
